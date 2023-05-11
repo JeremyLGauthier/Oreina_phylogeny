@@ -1,0 +1,250 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=148;
+	taxlabels
+	'Chrysolina_[Anopachys]_asclepiadis__M1467'
+	'Chrysolina_[Anopachys]_asclepiadis__M1468'
+	'Chrysolina_[Anopachys]_asclepiadis__M1469'
+	'Chrysolina_[Anopachys]_aurichalcea__M1464'
+	'Chrysolina_[Anopachys]_aurichalcea__M1466'
+	'Chrysolina_[Bittotaenia]_salviae__M1473'
+	'Chrysolina_[Bittotaenia]_salviae__M1475'
+	'Chrysolina_[Centoptera]_bicolor__M1483'
+	'Chrysolina_[Centoptera]_bicolor__M1484'
+	'Chrysolina_[Centoptera]_bicolor__M1485'
+	'Chrysolina_[Chalcoidea]_marginata__M1470'
+	'Chrysolina_[Chalcoidea]_marginata__M1471'
+	'Chrysolina_[Chalcoidea]_marginata__M1472'
+	'Chrysolina_[Chrysolina]_staphylaea__M1456'
+	'Chrysolina_[Chrysolina]_staphylaea__M1457'
+	'Chrysolina_[Chrysolina]_staphylaea__M1458'
+	'Chrysolina_[Chrysomorpha]_cerealis__M1401'
+	'Chrysolina_[Chrysomorpha]_cerealis__M1454'
+	'Chrysolina_[Chrysomorpha]_cerealis__M1455'
+	'Chrysolina_[Erythrochrysa]_polita__M1486'
+	'Chrysolina_[Erythrochrysa]_polita__M1488'
+	'Chrysolina_[Euchrysolina]_graminis__M1400'
+	'Chrysolina_[Euchrysolina]_graminis__M1452'
+	'Chrysolina_[Euchrysolina]_graminis__M1453'
+	'Chrysolina_[Fastuolina]_fastuosa__M1476'
+	'Chrysolina_[Fastuolina]_fastuosa__M1478'
+	'Chrysolina_[Fastuolina]_fastuosa__M1479'
+	'Chrysolina_[Fastuolina]_fastuosa__M1502'
+	'Chrysolina_[Maenadrochrysa]_femoralis__M1489'
+	'Chrysolina_[Maenadrochrysa]_femoralis__M1491'
+	'Chrysolina_[Stichoptera]_gypsophilae__M1460'
+	'Chrysolina_[Stichoptera]_gypsophilae__M1461'
+	'Chrysolina_[Stichoptera]_latecincta__M1324'
+	'Chrysolina_[Stichoptera]_latecincta__M1462'
+	'Chrysolina_[Synerge]_coerulans__M1449'
+	'Chrysolina_[Synerge]_herbacea__M0075'
+	'Chrysolina_[Synerge]_herbacea__M1445'
+	'Chrysolina_[Synerge]_herbacea__M1446'
+	'Chrysolina_[Timarchoptera]_haemochlora__M1480'
+	'Chrysolina_[Timarchoptera]_haemochlora__M1481'
+	'Chrysolina_[Timarchoptera]_haemochlora__M1482'
+	'Crosita_[Crosita]_altaica__M1492'
+	'Crosita_[Crosita]_altaica__M1493'
+	'Crosita_[Crosita]_altaica__M1494'
+	Cyrtonus__majoricensis__M1499
+	Cyrtonus__majoricensis__M1500
+	'Oreina_[Allorina]_auricollis__M1402'
+	'Oreina_[Allorina]_caerulea__M1405'
+	'Oreina_[Allorina]_caerulea__M1406'
+	'Oreina_[Allorina]_collucens__M1408'
+	'Oreina_[Chrysochloa]_cacaliae__M0008'
+	'Oreina_[Chrysochloa]_cacaliae__M0148'
+	'Oreina_[Chrysochloa]_cacaliae__M0455'
+	'Oreina_[Chrysochloa]_cacaliae__M0478'
+	'Oreina_[Chrysochloa]_cacaliae__M0538'
+	'Oreina_[Chrysochloa]_cacaliae__M0562'
+	'Oreina_[Chrysochloa]_cacaliae__M0606'
+	'Oreina_[Chrysochloa]_cacaliae__M0691'
+	'Oreina_[Chrysochloa]_cacaliae__M0694'
+	'Oreina_[Chrysochloa]_cacaliae__M0724'
+	'Oreina_[Chrysochloa]_cacaliae__M1020'
+	'Oreina_[Chrysochloa]_cacaliae__M1033'
+	'Oreina_[Chrysochloa]_cacaliae__M1039'
+	'Oreina_[Chrysochloa]_cacaliae__M1058'
+	'Oreina_[Chrysochloa]_cacaliae__M1137'
+	'Oreina_[Chrysochloa]_cacaliae__M1163'
+	'Oreina_[Chrysochloa]_elongata__M0756'
+	'Oreina_[Chrysochloa]_elongata__M0928'
+	'Oreina_[Chrysochloa]_elongata_zangherii_M0843'
+	'Oreina_[Chrysochloa]_fairmairiana__M1303'
+	'Oreina_[Chrysochloa]_fairmairiana__M1414'
+	'Oreina_[Chrysochloa]_fairmairiana__M1415'
+	'Oreina_[Chrysochloa]_genei__M1412'
+	'Oreina_[Chrysochloa]_speciosissima__M0080'
+	'Oreina_[Chrysochloa]_speciosissima__M0233'
+	'Oreina_[Chrysochloa]_speciosissima__M0260'
+	'Oreina_[Chrysochloa]_speciosissima__M0292'
+	'Oreina_[Chrysochloa]_speciosissima__M0499'
+	'Oreina_[Chrysochloa]_speciosissima__M0641'
+	'Oreina_[Chrysochloa]_speciosissima__M0716'
+	'Oreina_[Chrysochloa]_speciosissima__M0830'
+	'Oreina_[Chrysochloa]_speciosissima__M1024'
+	'Oreina_[Chrysochloa]_speciosissima__M1150'
+	'Oreina_[Chrysochloa]_speciosissima__M1152'
+	'Oreina_[Chrysochloa]_speciosissima__M1160'
+	'Oreina_[Chrysochloa]_speciosissima_convergens_M1292'
+	'Oreina_[Frigidorina]_frigida__M1377'
+	'Oreina_[Frigidorina]_frigida__M1416'
+	'Oreina_[Frigidorina]_frigida__M1417'
+	'Oreina_[Frigidorina]_frigida__M1418'
+	'Oreina_[Intricatorina]_intricata__M0507'
+	'Oreina_[Intricatorina]_intricata__M0601'
+	'Oreina_[Intricatorina]_intricata__M0864'
+	'Oreina_[Intricatorina]_intricata__M1128'
+	'Oreina_[Oreina]_alpestris__M0472'
+	'Oreina_[Oreina]_alpestris__M0490'
+	'Oreina_[Oreina]_alpestris__M0547'
+	'Oreina_[Oreina]_alpestris__M0826'
+	'Oreina_[Oreina]_alpestris__M0904'
+	'Oreina_[Oreina]_alpestris__M1032'
+	'Oreina_[Oreina]_alpestris__Y0003'
+	'Oreina_[Oreina]_alpestris__Y0194'
+	'Oreina_[Oreina]_alpestris__Y0204'
+	'Oreina_[Oreina]_alpestris__Y0428'
+	'Oreina_[Oreina]_alpestris__Y0441'
+	'Oreina_[Oreina]_basilea__M1428'
+	'Oreina_[Oreina]_basilea__M1429'
+	'Oreina_[Oreina]_basilea_cuprescens_M1430'
+	'Oreina_[Oreina]_bifrons__M0312'
+	'Oreina_[Oreina]_bifrons__M0594'
+	'Oreina_[Oreina]_bifrons__M0670'
+	'Oreina_[Oreina]_bifrons__M0905'
+	'Oreina_[Oreina]_bifrons__M0947'
+	'Oreina_[Oreina]_ganglbaueri__M1289'
+	'Oreina_[Oreina]_ganglbaueri__M1463'
+	'Oreina_[Oreina]_ganglbaueri__Y0181'
+	'Oreina_[Oreina]_ganglbaueri__Y0200'
+	'Oreina_[Oreina]_gloriosa__M0127'
+	'Oreina_[Oreina]_gloriosa__M0883'
+	'Oreina_[Oreina]_gloriosa__M0994'
+	'Oreina_[Oreina]_gloriosa__M1064'
+	'Oreina_[Oreina]_gloriosa__M1102'
+	'Oreina_[Oreina]_gloriosa__M1124'
+	'Oreina_[Oreina]_gloriosa__M1135'
+	'Oreina_[Oreina]_liturata__M0059'
+	'Oreina_[Oreina]_liturata__M1422'
+	'Oreina_[Oreina]_liturata_tomasii_M1421'
+	'Oreina_[Oreina]_liturata_tomasii_M1423'
+	'Oreina_[Oreina]_speciosa__Y0044'
+	'Oreina_[Oreina]_speciosa__Y0186'
+	'Oreina_[Oreina]_viridis__M0943'
+	'Oreina_[Oreina]_viridis__M1382'
+	'Oreina_[Oreina]_viridis__M1426'
+	'Oreina_[Oreina]_viridis__M1427'
+	'Oreina_[Oreina]_viridis__M1431'
+	'Oreina_[Protorina]_ludovicae__M1280'
+	'Oreina_[Protorina]_melancholica__M1434'
+	'Oreina_[Protorina]_melancholica_melancholica_M1272'
+	'Oreina_[Protorina]_peirolerii__M1326'
+	'Oreina_[Protorina]_peirolerii__M1437'
+	'Oreina_[Protorina]_plagiata__M1440'
+	'Oreina_[Protorina]_retenta__M1441'
+	'Oreina_[Protorina]_schipkana__M1444'
+	'Oreina_[Virgulatorina]_virgulata__M0514'
+	'Oreina_[Virgulatorina]_virgulata__M1314'
+	'Oreina_[Virgulatorina]_virgulata__M1450'
+	Timarcha__gottingensis__M1498
+	Timarcha__gottingensis__M1501
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((((((('Chrysolina_[Anopachys]_asclepiadis__M1469':0.041803,('Chrysolina_[Anopachys]_aurichalcea__M1466':0.044939,('Chrysolina_[Anopachys]_asclepiadis__M1468':0.032626,'Chrysolina_[Anopachys]_aurichalcea__M1464':0.034557)[&label="99.9/100"]:0.008807)[&label="99/92"]:0.007157)[&label="72.8/72",!rotate=true]:0.004596,'Chrysolina_[Anopachys]_asclepiadis__M1467':0.043049)[&label="100/100",!rotate=true]:0.00711,('Chrysolina_[Chalcoidea]_marginata__M1472':0.04731,('Chrysolina_[Chalcoidea]_marginata__M1471':0.02591,'Chrysolina_[Chalcoidea]_marginata__M1470':0.022219)[&label="100/100",!rotate=false]:0.018103)[&label="100/100",!rotate=true]:0.009287)[&label="100/100"]:0.006137,(((('Chrysolina_[Chrysolina]_staphylaea__M1456':0.028238,'Chrysolina_[Chrysolina]_staphylaea__M1458':0.020495)[&label="100/100"]:0.008882,'Chrysolina_[Chrysolina]_staphylaea__M1457':0.039321)[&label="100/100"]:0.022127,((('Chrysolina_[Stichoptera]_latecincta__M1324':0.01705,'Chrysolina_[Stichoptera]_latecincta__M1462':0.018582)[&label="100/100"]:0.016612,'Chrysolina_[Stichoptera]_gypsophilae__M1460':0.031065)[&label="52.2/65",!rotate=true]:0.004117,'Chrysolina_[Stichoptera]_gypsophilae__M1461':0.039591)[&label="100/100",!rotate=true]:0.015277)[&label="100/99"]:0.003112,(('Crosita_[Crosita]_altaica__M1493':0.026485,('Crosita_[Crosita]_altaica__M1492':0.021754,'Crosita_[Crosita]_altaica__M1494':0.024889)[&label="98.8/97"]:0.006181)[&label="100/100"]:0.020001,('Chrysolina_[Timarchoptera]_haemochlora__M1480':0.018719,('Chrysolina_[Timarchoptera]_haemochlora__M1481':0.021941,'Chrysolina_[Timarchoptera]_haemochlora__M1482':0.016948)[&label="100/100"]:0.006987)[&label="100/100",!rotate=true]:0.027397)[&label="100/100",!rotate=true]:0.003241)[&label="81.6/78"]:0.001612)[&label="99.5/98",!rotate=true]:0.001718,(((('Chrysolina_[Centoptera]_bicolor__M1483':0.029517,'Chrysolina_[Centoptera]_bicolor__M1485':0.02711)[&label="41.9/65"]:0.005603,'Chrysolina_[Centoptera]_bicolor__M1484':0.037943)[&label="100/100"]:0.019105,('Chrysolina_[Bittotaenia]_salviae__M1473':0.023672,'Chrysolina_[Bittotaenia]_salviae__M1475':0.033955)[&label="100/100"]:0.021842)[&label="100/100"]:0.00533,('Chrysolina_[Maenadrochrysa]_femoralis__M1491':0.030556,'Chrysolina_[Maenadrochrysa]_femoralis__M1489':0.039091)[&label="100/100"]:0.028985)[&label="100/99"]:0.002459)[&label="93.7/85",!rotate=true]:0.001796,((((('Chrysolina_[Chrysomorpha]_cerealis__M1401':0.018409,'Chrysolina_[Chrysomorpha]_cerealis__M1455':0.018008)[&label="100/100"]:0.009205,'Chrysolina_[Chrysomorpha]_cerealis__M1454':0.022556)[&label="100/100"]:0.017545,((('Chrysolina_[Synerge]_herbacea__M1446':0.020454,'Chrysolina_[Synerge]_herbacea__M0075':0.01849)[&label="100/100"]:0.007021,'Chrysolina_[Synerge]_herbacea__M1445':0.042436)[&label="100/100"]:0.010292,'Chrysolina_[Synerge]_coerulans__M1449':0.035872)[&label="100/100"]:0.006297)[&label="100/100"]:0.006231,(('Chrysolina_[Euchrysolina]_graminis__M1453':0.016882,'Chrysolina_[Euchrysolina]_graminis__M1400':0.018434)[&label="87.2/86"]:0.00461,'Chrysolina_[Euchrysolina]_graminis__M1452':0.017464)[&label="100/100"]:0.02434)[&label="100/100"]:0.006931,('Chrysolina_[Erythrochrysa]_polita__M1486':0.029425,'Chrysolina_[Erythrochrysa]_polita__M1488':0.039483)[&label="100/100"]:0.024151)[&label="85.7/81"]:0.002342)[&label="100/93"]:0.002958,((((((((((('Oreina_[Chrysochloa]_speciosissima__M0080':0.008735,'Oreina_[Chrysochloa]_speciosissima__M0499':0.008809)[&label="100/87"]:0.001511,('Oreina_[Chrysochloa]_speciosissima__M0260':0.008667,'Oreina_[Chrysochloa]_speciosissima__M1024':0.00874)[&label="85.7/71"]:0.001398)[&label="65.3/58"]:8.53E-4,(('Oreina_[Chrysochloa]_speciosissima__M0716':0.009056,'Oreina_[Chrysochloa]_speciosissima__M0641':0.00852)[&label="38.6/56"]:0.001345,'Oreina_[Chrysochloa]_speciosissima__M0292':0.008268)[&label="99.9/88"]:9.66E-4)[&label="42.6/50"]:7.39E-4,('Oreina_[Chrysochloa]_speciosissima__M1160':0.010739,('Oreina_[Chrysochloa]_speciosissima__M0830':0.010044,'Oreina_[Chrysochloa]_speciosissima__M0233':0.010495)[&label="99.4/98"]:0.001814)[&label="100/98",!rotate=true]:0.001305)[&label="88.6/91"]:7.96E-4,('Oreina_[Chrysochloa]_speciosissima__M1152':0.009184,('Oreina_[Chrysochloa]_speciosissima__M1150':0.008937,'Oreina_[Chrysochloa]_speciosissima_convergens_M1292':0.009259)[&label="60.1/74"]:0.001393)[&label="100/100",!rotate=true]:0.0012)[&label="100/100"]:0.002288,((((((('Oreina_[Chrysochloa]_cacaliae__M0691':0.009676,'Oreina_[Chrysochloa]_cacaliae__M0008':0.009306)[&label="100/84"]:0.001691,(('Oreina_[Chrysochloa]_cacaliae__M0562':0.008237,'Oreina_[Chrysochloa]_cacaliae__M0694':0.007922)[&label="100/99"]:0.001591,('Oreina_[Chrysochloa]_cacaliae__M1039':0.00936,'Oreina_[Chrysochloa]_cacaliae__M0724':0.008139)[&label="99.8/80"]:0.001496)[&label="96.1/73"]:8.12E-4)[&label="77.2/60",!rotate=true]:5.9E-4,('Oreina_[Chrysochloa]_cacaliae__M1020':0.007841,'Oreina_[Chrysochloa]_cacaliae__M1058':0.009545)[&label="100/89"]:0.001763)[&label="83.3/71"]:6.4E-4,('Oreina_[Chrysochloa]_cacaliae__M0148':0.00799,'Oreina_[Chrysochloa]_cacaliae__M0606':0.008042)[&label="100/87"]:0.001465)[&label="93.7/91"]:7.82E-4,('Oreina_[Chrysochloa]_cacaliae__M0478':0.00985,'Oreina_[Chrysochloa]_cacaliae__M0538':0.008216)[&label="100/97"]:0.001703)[&label="99.5/95"]:0.001016,('Oreina_[Chrysochloa]_cacaliae__M1033':0.01238,'Oreina_[Chrysochloa]_cacaliae__M0455':0.009128)[&label="100/98"]:0.002351)[&label="80.1/79"]:0.001011,('Oreina_[Chrysochloa]_cacaliae__M1137':0.016547,'Oreina_[Chrysochloa]_cacaliae__M1163':0.011784)[&label="100/100"]:0.002752)[&label="100/100"]:0.002456)[&label="100/100",!rotate=true]:0.002317,(('Oreina_[Virgulatorina]_virgulata__M1314':0.013643,'Oreina_[Virgulatorina]_virgulata__M1450':0.01119)[&label="99.6/99"]:0.002377,'Oreina_[Virgulatorina]_virgulata__M0514':0.012717)[&label="100/100"]:0.005597)[&label="86.7/90",!rotate=false]:9.61E-4,(((((('Oreina_[Chrysochloa]_fairmairiana__M1415':0.014402,'Oreina_[Chrysochloa]_fairmairiana__M1414':0.021676)[&label="92.8/86"]:0.002223,'Oreina_[Chrysochloa]_fairmairiana__M1303':0.008866)[&label="100/100"]:0.004351,(('Oreina_[Frigidorina]_frigida__M1377':0.011128,('Oreina_[Frigidorina]_frigida__M1417':0.011544,'Oreina_[Frigidorina]_frigida__M1416':0.011422)[&label="96.4/92"]:0.001878)[&label="100/100",!rotate=true]:0.001539,'Oreina_[Frigidorina]_frigida__M1418':0.020779)[&label="100/54"]:0.001528)[&label="42.7/38"]:0.001003,('Oreina_[Chrysochloa]_elongata_zangherii_M0843':0.012702,('Oreina_[Chrysochloa]_elongata__M0928':0.008798,'Oreina_[Chrysochloa]_elongata__M0756':0.008706)[&label="100/100"]:0.002154)[&label="100/100",!rotate=true]:0.003431)[&label="99.7/55"]:8.19E-4,'Oreina_[Chrysochloa]_genei__M1412':0.031996)[&label="100/100"]:0.001338,(('Oreina_[Allorina]_auricollis__M1402':0.019959,('Oreina_[Allorina]_caerulea__M1405':0.019473,'Oreina_[Allorina]_caerulea__M1406':0.028005)[&label="84.6/75"]:0.002313)[&label="2.8/46"]:0.001462,'Oreina_[Allorina]_collucens__M1408':0.029527)[&label="100/100"]:0.005097)[&label="92.4/69",!rotate=true]:0.001283)[&label="100/100",!rotate=true]:0.002124,(((((((((('Oreina_[Oreina]_gloriosa__M1064':0.010625,'Oreina_[Oreina]_gloriosa__M0127':0.008763)[&label="6/57"]:0.001471,'Oreina_[Oreina]_gloriosa__M0883':0.01076)[&label="98.2/67"]:9.6E-4,('Oreina_[Oreina]_gloriosa__M1124':0.00949,'Oreina_[Oreina]_gloriosa__M1135':0.010057)[&label="97.1/65"]:0.001353)[&label="87/62"]:7.88E-4,('Oreina_[Oreina]_gloriosa__M0994':0.011079,'Oreina_[Oreina]_gloriosa__M1102':0.008579)[&label="99.9/94"]:0.001956)[&label="100/100"]:0.004105,((((('Oreina_[Oreina]_speciosa__Y0186':0.010231,'Oreina_[Oreina]_alpestris__M1032':0.010922)[&label="100/100"]:0.001882,('Oreina_[Oreina]_alpestris__Y0194':0.007779,'Oreina_[Oreina]_alpestris__Y0204':0.00758)[&label="100/100"]:0.001677)[&label="98.9/97"]:7.74E-4,('Oreina_[Oreina]_speciosa__Y0044':0.00799,'Oreina_[Oreina]_alpestris__Y0003':0.007903)[&label="100/99"]:0.001529)[&label="99.8/98"]:8.82E-4,((('Oreina_[Oreina]_alpestris__M0826':0.006936,'Oreina_[Oreina]_alpestris__Y0441':0.007397)[&label="100/47"]:0.001517,('Oreina_[Oreina]_alpestris__Y0428':0.008219,'Oreina_[Oreina]_alpestris__M0904':0.00818)[&label="83.4/44"]:0.001368)[&label="100/100"]:0.00126,('Oreina_[Oreina]_alpestris__M0490':0.008897,('Oreina_[Oreina]_alpestris__M0472':0.009099,'Oreina_[Oreina]_alpestris__M0547':0.008545)[&label="41.6/68"]:0.001526)[&label="100/100",!rotate=true]:0.001118)[&label="100/99"]:8.94E-4)[&label="93.4/88"]:7.06E-4,(('Oreina_[Oreina]_ganglbaueri__M1463':0.007752,'Oreina_[Oreina]_ganglbaueri__M1289':0.007814)[&label="100/95"]:0.001487,('Oreina_[Oreina]_ganglbaueri__Y0181':0.007976,'Oreina_[Oreina]_ganglbaueri__Y0200':0.010957)[&label="99.7/94"]:0.001559)[&label="100/100"]:0.001628)[&label="100/100",!rotate=true]:0.00229)[&label="100/100"]:0.001427,(('Oreina_[Oreina]_liturata__M0059':0.008779,'Oreina_[Oreina]_liturata__M1422':0.014723)[&label="97.4/87"]:0.001499,('Oreina_[Oreina]_liturata_tomasii_M1423':0.008379,'Oreina_[Oreina]_liturata_tomasii_M1421':0.009102)[&label="46.3/62"]:0.001412)[&label="100/100"]:0.004751)[&label="100/100"]:8.68E-4,('Oreina_[Oreina]_viridis__M1426':0.027585,(('Oreina_[Oreina]_viridis__M0943':0.011714,'Oreina_[Oreina]_viridis__M1382':0.012895)[&label="100/100"]:0.001857,('Oreina_[Oreina]_viridis__M1431':0.014062,'Oreina_[Oreina]_viridis__M1427':0.010508)[&label="100/96"]:0.002144)[&label="88.3/85"]:8.51E-4)[&label="100/100"]:0.004648)[&label="82.1/82"]:7.01E-4,((('Oreina_[Oreina]_bifrons__M0905':0.007378,('Oreina_[Oreina]_bifrons__M0947':0.008214,'Oreina_[Oreina]_bifrons__M0312':0.007946)[&label="99.9/100"]:0.00169)[&label="82.9/84",!rotate=true]:0.001102,('Oreina_[Oreina]_bifrons__M0670':0.011908,'Oreina_[Oreina]_bifrons__M0594':0.007429)[&label="100/100"]:0.001627)[&label="100/100"]:0.002545,(('Oreina_[Oreina]_basilea__M1428':0.014639,'Oreina_[Oreina]_basilea__M1429':0.013385)[&label="47.7/63"]:0.001584,'Oreina_[Oreina]_basilea_cuprescens_M1430':0.015766)[&label="100/100"]:0.006662)[&label="100/100"]:0.001638)[&label="100/100"]:0.003945,('Oreina_[Protorina]_schipkana__M1444':0.024711,(((('Oreina_[Protorina]_melancholica__M1434':0.015192,'Oreina_[Protorina]_melancholica_melancholica_M1272':0.008296)[&label="99.9/100"]:0.002017,('Oreina_[Protorina]_peirolerii__M1326':0.008418,'Oreina_[Protorina]_peirolerii__M1437':0.00781)[&label="100/100"]:0.00212)[&label="100/100"]:0.002406,('Oreina_[Protorina]_ludovicae__M1280':0.008451,'Oreina_[Protorina]_plagiata__M1440':0.009658)[&label="100/94"]:0.001923)[&label="94.8/71"]:0.001121,'Oreina_[Protorina]_retenta__M1441':0.01181)[&label="83.8/74"]:0.00125)[&label="100/100"]:0.00243)[&label="100/95"]:0.001667,((('Oreina_[Intricatorina]_intricata__M0601':0.008431,'Oreina_[Intricatorina]_intricata__M1128':0.008503)[&label="33.2/58"]:0.001245,'Oreina_[Intricatorina]_intricata__M0864':0.010669)[&label="99.4/99"]:0.001437,'Oreina_[Intricatorina]_intricata__M0507':0.008731)[&label="100/100"]:0.007168)[&label="100/100"]:0.00229)[&label="67.8/63"]:0.001784,((('Chrysolina_[Fastuolina]_fastuosa__M1479':0.023485,'Chrysolina_[Fastuolina]_fastuosa__M1502':0.011369)[&label="92.9/91"]:0.00209,'Chrysolina_[Fastuolina]_fastuosa__M1478':0.017109)[&label="99.4/96"]:0.002015,'Chrysolina_[Fastuolina]_fastuosa__M1476':0.034203)[&label="100/100"]:0.007522)[&label="100/100"]:0.004652,(Cyrtonus__majoricensis__M1499:0.026597,Cyrtonus__majoricensis__M1500:0.025865)[&label="100/100"]:0.04047)[&label="94.4/94"]:0.001845)[&label="100/100",!rotate=false]:0.055829,Timarcha__gottingensis__M1498:0.017693,Timarcha__gottingensis__M1501:0.016708);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=347;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
